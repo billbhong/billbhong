@@ -2,8 +2,11 @@ Hi, I'm Bill! I'm a CS engineering & math undergrad at the University of Michiga
 
 Currently at: [`Mcity`](https://mcity.umich.edu) [`ROAHM Lab`](https://www.roahmlab.com/) [`MRover`](https://mrover.org/) [`Mapless AI`](https://www.mapless.ai/)
 
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=billbhong&theme=solarized)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=billbhong&theme=solarized)|
-|---|---|
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=billbhong&theme=solarized" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=billbhong&theme=solarized" />
+</p>
+
 
 <!-- # Recent Projects
 
